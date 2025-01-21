@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "title": "DHIS2 Climate App",
+  "name": "climate-data",
+  "version": "1.5.1",
+  "description": "Explore and import weather and climate data in DHIS2.",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
