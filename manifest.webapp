@@ -1,0 +1,22 @@
+{
+  "app_hub_id": "effb986c-a3c7-485e-a2f6-5e54ff9df7c3",
+  "appType": "APP",
+  "short_name": "climate-data",
+  "name": "DHIS2 Climate App",
+  "description": "Explore and import weather and climate data in DHIS2.",
+  "version": "1.9.0",
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Thu Apr 03 2025 10:18:51 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
