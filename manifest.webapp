@@ -4,7 +4,7 @@
   "short_name": "climate-data",
   "name": "DHIS2 Climate App",
   "description": "Explore and import weather and climate data in DHIS2.",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Sun Jun 01 2025 09:36:53 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Sun Jun 01 2025 09:59:15 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
