@@ -4,7 +4,7 @@
   "id": "effb986c-a3c7-485e-a2f6-5e54ff9df7c3",
   "minDHIS2Version": "2.37",
   "name": "climate-data",
-  "version": "1.12.4",
+  "version": "1.13.2",
   "description": "Explore and import weather and climate data in DHIS2.",
   "entryPoints": {
     "app": "index.html"
