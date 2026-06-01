@@ -4,7 +4,7 @@
   "id": "effb986c-a3c7-485e-a2f6-5e54ff9df7c3",
   "minDHIS2Version": "2.40",
   "name": "climate-data",
-  "version": "999.99.9-chunked-extract.beta",
+  "version": "999.99.0-chunked-imports.beta.0",
   "description": "Explore and import weather and climate data in DHIS2.",
   "entryPoints": {
     "app": "index.html"
