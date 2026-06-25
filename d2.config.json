@@ -5,7 +5,7 @@
   "minDHIS2Version": "2.40",
   "dataStoreNamespace": "CLIMATE_DATA",
   "name": "climate-data",
-  "version": "1.16.1",
+  "version": "1.16.2",
   "description": "Explore and import weather and climate data in DHIS2.",
   "entryPoints": {
     "app": "index.html"
